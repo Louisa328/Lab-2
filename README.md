@@ -23,5 +23,6 @@ I built a Python pipeline to ingest live economic data from the Federal Reserve 
 I visualized the 'Money Illusion'—showing flat real wages over 50 years. I also demonstrated that the 2020 wage boom was a statistical artifact caused by low-wage workers exiting the labor force, not a true increase in labor demand (the "Pandemic Paradox").
 
 ### Visualizations
+<img width="1389" height="690" alt="image" src="https://github.com/user-attachments/assets/37c3c60f-b019-4d00-8a20-e0410bfb3021" />
 <img width="1370" height="690" alt="image" src="https://github.com/user-attachments/assets/a9c759f7-0a01-49e4-8ffb-1982eeaa63e1" />
 <img width="1389" height="690" alt="image" src="https://github.com/user-attachments/assets/78145974-9cd5-461c-8ced-e54baf2719e1" />
